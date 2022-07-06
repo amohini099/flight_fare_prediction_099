@@ -5,7 +5,6 @@
 
 
 import pickle
-from collections.abc import Mapping
 import pandas as pd
 from flask import Flask, request, render_template
 from flask_cors import cross_origin
