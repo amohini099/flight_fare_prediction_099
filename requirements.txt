@@ -33,7 +33,7 @@ cycler==0.10.0
 Cython==0.29.21
 cytoolz==0.9.0.1
 dask==0.17.5
-dataclasses==0.8
+#dataclasses==0.8
 datashape==0.5.4
 decorator==4.3.0
 Distance==0.1.3
