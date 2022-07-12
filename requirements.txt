@@ -177,7 +177,6 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 simplejson==3.17.6
 singledispatch==3.4.0.3
-six==1.15.0
 smart-open==5.1.0
 snowballstemmer==1.2.1
 sortedcollections==0.6.1
