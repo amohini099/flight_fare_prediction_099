@@ -218,7 +218,7 @@ XlsxWriter==1.0.4
 #xlwings==0.11.8
 appdirs==1.4.3
 #certifi==2020.6.20
-click==7.1.2
+#click==7.1.2
 distlib==0.3.0
 #Flask==1.1.2
 Flask-Cors==3.0.9
