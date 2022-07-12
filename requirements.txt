@@ -114,7 +114,7 @@ olefile==0.45.1
 openpyxl==2.5.3
 packaging==17.1
 #pandas==1.1.5
-pandocfilters==1.4.2
+#pandocfilters==1.4.2
 parso==0.2.0
 partd==0.3.8
 path.py==11.0.1
